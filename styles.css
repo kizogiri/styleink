@@ -16,7 +16,7 @@
     --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 
-body {
+html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
@@ -693,4 +693,3 @@ body {
         gap: 1rem;
     }
 }
-
